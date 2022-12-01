@@ -18,5 +18,4 @@ def num_within(a,b,c):
 print(num_within(5,2,3))
 
 def pascal(n):
-
-
+    return
